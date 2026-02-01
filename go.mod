@@ -3,7 +3,7 @@ module GoBioskop
 go 1.25.6
 
 require (
-	github.com/lib/pq v1.11.1
+	github.com/lib/pq v1.10.9
 	github.com/spf13/viper v1.21.0
 )
 
